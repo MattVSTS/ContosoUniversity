@@ -1,0 +1,82 @@
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\WebGrease.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\matteo.emili\Downloads\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\PagedList.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\WebGrease.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\PagedList.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\matteo.emili\Source\Repos\Orion\Website\src\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
